@@ -1,7 +1,6 @@
 Categories:
   - Internet
 License: GPL-3.0-only
-
 AuthorEmail: iu61zopfs@mozmail.com
 AuthorWebSite: https://github.com/xxxb-g/
 WebSite: https://pirna800.de
@@ -14,4 +13,17 @@ Summary: >
   Pirna 800
 
 Description: >
-  Eine schlichte, kleine App, um Pirna 800 Bäume auf der Karte zu finden oder neue hinzuzufügen. 
+  Eine schlichte, kleine App, um Pirna 800 Bäume auf der Karte zu finden oder neue hinzuzufügen.
+
+CurrentVersion: 1.1.4
+CurrentVersionCode: 3
+Icon: icon.png
+
+Screenshots:
+  - 1.png
+  - 2.png
+  - 3.png
+  - 4.png
+  - 5.png
+  - 6.png
+  - 7.png
